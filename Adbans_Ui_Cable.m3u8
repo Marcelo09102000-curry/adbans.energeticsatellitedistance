@@ -347,14 +347,14 @@ http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
-#EXTINF:-3 ch-number="42" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940", TV3-SariSari
+#EXTINF:-3 ch-number="42" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="", TV3-It's Showtime
 #EXTVLCOPT:http-referrer=https://cignalplay.com
 #EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_sarisari/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=3cdb78338a104ed594175a49532c823d:9c7810c46873053be29d26bf6f753664
+https://abslive.akamaized.net/dash/live/2027618/itsshowtime/manifest.mpd
 #EXTINF:-3 ch-number="43" group-title="Sig's TV" tvg-id="kapamilya-channel.click" tvg-name="kapamilya-channel" tvg-logo="https://static.wikia.nocookie.net/abscbn/images/0/09/ABS-CBN_Kapamilya_Channel.svg/revision/latest/scale-to-width-down/268?cb=20260315225126", TV3-ABS-CBN|Kapamilya channel HD
 #EXTVLCOPT:http-referrer=http://136.239.158.18:6610
 #EXTVLCOPT:http-origin=http://136.239.158.18:6610
