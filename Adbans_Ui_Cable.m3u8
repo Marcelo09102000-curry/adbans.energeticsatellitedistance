@@ -348,10 +348,6 @@ http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
 #EXTINF:-3 ch-number="42" group-title="Sig's TV" tvg-id="_" tvg-name="_" tvg-logo="", TV3-It's Showtime
-#EXTVLCOPT:http-referrer=https://iwanttfc.com
-#EXTVLCOPT:http-origin=https://iwanttfc.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.mainfest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cdb78338a104ed594175a49532c823d:9c7810c46873053be29d26bf6f753664
 https://abslive.akamaized.net/dash/live/2027618/itsshowtime/manifest.mpd
