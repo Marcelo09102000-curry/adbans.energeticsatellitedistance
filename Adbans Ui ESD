@@ -1,0 +1,883 @@
+#EXTM3U
+
+Curry
+
+#EXTINF:4 ch-number="1" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-PTV
+http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="2" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-GMA
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="3" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-ALLTV2
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="4" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-iBC HD
+http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="5" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-TV5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
+#EXTINF:2 ch-number="6" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-RPTV SD
+http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BplioRPAB6XCf%2FrlkX7xxQZytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001215&contentid=ch00000000000000001215&videoid=ch00000090990000001094&recommendtype=0&userid=1177699247918&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YBHPP0KWBIFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="7" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-A2Z
+http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="8" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-SolarFlix
+http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="9" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-Aliw Channel
+http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1657667082928&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JK9HJ5J3VGXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="10" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-DZRH
+http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="11" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-Gtv
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="12" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-NET25
+http://136.239.173.26:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpBCCDeDIJn9rDuWx8BszuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001217&contentid=ch00000000000000001217&videoid=ch00000090990000001090&recommendtype=0&userid=1645621004526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5X13LGN2GQBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="13" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-RJ DigiTV
+http://136.239.158.10:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BreKmZs4H3Zuj6jrvRtgmFqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001395&contentid=ch00000000000000001395&videoid=ch00000090990000001159&recommendtype=0&userid=1981697457601&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VPNC8TXZ55DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="14" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-DZMM Teleradyo
+http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="15" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-LIGHTtv
+http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqkZ6SnNx3gh97OtxQ2ygibytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001179&contentid=ch00000000000000001179&videoid=ch00000090990000001103&recommendtype=0&userid=1847927235474&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FR3HWWBCXEEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="16" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-One sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
+#EXTINF:2 ch-number="17" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-GNN
+http://136.158.97.2:6610/001/2/ch00000090990000001234/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp6sHVPy02nySMqUY2vMm%2BjytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001523&contentid=ch00000000000000001523&videoid=ch00000090990000001234&recommendtype=0&userid=1521078532205&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EP8Z20BUC89XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="18" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-INCTV
+http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="19" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-RPTV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
+#EXTINF:2 ch-number="0" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-UNTV
+http://136.239.173.10:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8EKxpteUJNLDuI18c3YYNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001177&contentid=ch00000000000000001177&videoid=ch00000090990000001091&recommendtype=0&userid=1785051491883&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7BZSNFMO8LPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="20" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-SolarSports
+http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="21" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-Rock of Manila channel
+http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq3IoTFSryS9b7zI0P4QXhKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001414&contentid=ch00000000000000001414&videoid=ch00000090990000001177&recommendtype=0&userid=1440892826941&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AGE6A6KKG8LXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="22" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-TV Maria
+http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="23" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-Bilyonaryo
+http://136.239.158.18:6610/001/2/ch00000090990000001124/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001278&contentid=ch00000000000000001278&videoid=ch00000090990000001124&recommendtype=0&userid=1747224050385&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I3AR71L33CXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="24" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-Knowledge channel
+http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="25" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-Central Luzon Television incorporated
+http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814&videoid=ch00000090990000001314&recommendtype=0&userid=1863730940752&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=689D0763BF7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="26" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-Cinemo
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="27" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-Kapamilya channel
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="28" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-Cartoon channel Philippines
+https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8
+#EXTINF:2 ch-number="29" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV01-One PH
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
+
+Amogus
+
+#EXTINF:4 ch-number="30" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-ANC
+http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
+#EXTINF:2 ch-number="31" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-CNN International
+http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
+#EXTINF:2 ch-number="32" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02
+1106dtv http://136.239.173.3:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhARVluhpunJiYdQ%2BUDM8fsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1659725106067&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WL3Z4DGO41EXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820260101155237142593&ispcode=55
+#EXTINF:2 ch-number="33" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-Al Jazeera
+http://136.158.97.2:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApIEgcDfK9VMvZFzWy7ZaCt2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1348066725359&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5XCX4OM7YT7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453320260101155241049001&ispcode=55
+#EXTINF:2 ch-number="34" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-One news
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e6a9d7c1f4b4c8a8d33c7b1f0a5e924:4c71e178d090332fbfe72e023b59f6d2
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd
+#EXTINF:2 ch-number="35" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-France 24
+http://136.239.158.18:6610/001/2/ch00000090990000001157/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr79DvzaC5n7CqXniN8aprYsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001337&contentid=ch00000000000000001337&videoid=ch00000090990000001157&recommendtype=0&userid=1869475038340&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4H65AUICYBXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447520260101155238866649&ispcode=55
+#EXTINF:2 ch-number="36" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-CCTN4
+http://136.158.97.2:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArXm%2BLs%2BN7C0jX0KTEhSJl3syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1703612119129&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LGO7QMYP53CXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448820260101155240346433&ispcode=55
+#EXTINF:2 ch-number="37" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-CGTN
+http://161.49.17.2:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq0bLdlQQxjquEy7BUYBE%2BOsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1425279458636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=S46OQZ6HHOXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820260101155238142604&ispcode=55
+#EXTINF:2 ch-number="38" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
+#EXTINF:2 ch-number="39" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-Abante Teletabloid
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:2 ch-number="40" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-NHK World Japan
+http://161.49.17.2:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqZTKpeZkGzV2we2%2BZ6q6g3syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1404568285744&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MIA1EKCJ1UFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447720260101155238222344&ispcode=55
+#EXTINF:2 ch-number="41" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-Al Saudiya
+http://136.239.159.20:6610/001/2/ch00000090990000001176/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx%2BXO6kYP1duDF0CR%2BT7zbsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001413&contentid=ch00000000000000001413&videoid=ch00000090990000001176&recommendtype=0&userid=1163214779459&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z7HHHB7UI99XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451220260101155239052564&ispcode=55
+#EXTINF:2 ch-number="42" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-Deutsche Welle
+http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoTcUYwq3PMi%2FTObKiSY6bDsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001377&contentid=ch00000000000000001377&videoid=ch00000090990000001166&recommendtype=0&userid=1791156066269&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8DYR6H98V3NXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155239188177&ispcode=55
+#EXTINF:2 ch-number="43" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02-TrueTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4e2b9d61c754f3a8d109b6c2f1e7a55:1d8d975f0bc2ed90eda138bd31f173f4
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
+
+Salgu
+
+#EXTINF:2 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrZbWy4P3NKKVNXe3wACXZmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001336&contentid=ch00000000000000001336&videoid=ch00000090990000001156&recommendtype=0&userid=1384915951397&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QZOPZ9VOOVLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001112/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0ljLQuLaqTKdgvofK6hc4ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001275&contentid=ch00000000000000001275&videoid=ch00000090990000001112&recommendtype=0&userid=1405270067404&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O5OYCFP87ZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrJ%2FmqaM1lrBiCRhhaFxCv%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001274&contentid=ch00000000000000001274&videoid=ch00000090990000001113&recommendtype=0&userid=1615200557296&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=F3CWPRYA79AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.18:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1293542013193&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FHCWZ7XXFIVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1516257620825&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N8EJG3JY51DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+Sig
+
+#EXTINF:2 ch-number="0" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="",TV04
+http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq3IoTFSryS9b7zI0P4QXhKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001414&contentid=ch00000000000000001414&videoid=ch00000090990000001177&recommendtype=0&userid=1440892826941&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AGE6A6KKG8LXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
+
+Loaf
+
+#EXTINF:2 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.173.26:6610/001/2/ch00000090990000001123/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001237&contentid=ch00000000000000001237&videoid=ch00000090990000001123&recommendtype=0&userid=1545743380024&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7NAS0TOF95HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+Half
+
+#EXTINF:4 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+Maya
+
+#EXTINF:4 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.18:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq9SZLE5HgafIcQ2VcLQB9EsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1960500443734&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8WK79ZSBXVGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447120260101155236008695&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.10:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr2cQyuTRlDkHeiqeVidUqqsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1481102669463&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7TIMXILHNX5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445520260101155240041967&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApP1%2FTBq4G4yW%2Bysf7XC2GUsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1627619394946&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ENDPNYXUMN7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445320260101155240172236&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.159.20:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1022847749017&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LZTWKL0XP7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445920260101155236183812&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.173.2:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHx%2Fyl86rMkFVqtHp1NtQIsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1388444659651&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VT2SEXWH4EOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445620260101155236094993&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.30:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1058297419636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B8CE333QUH6XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447420260101155236077598&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8jImOa2AKrqwa1m%2FJfhcesyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1488531249398&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M5E3S23XZ6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449720260101155240980674&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAosKg8aLji3LHWqHUI%2FwQyJsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1368249806492&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NJY3IWFAY6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448820260101155236346387&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.10:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArqmX9tLke4aZIpUgreyOpN2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1535415299339&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KA8C98C3ZAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453120260101155241063274&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://161.49.17.2:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApahcUJJEYAxPtEef94INw12%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1992031084771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HTEZZPU574PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155241186367&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq7M3KTlp1dzcZcVVxlNmQdsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1158498506531&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EZ3GLGN6GRKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446720260101155240169312&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoD7Jkv0l3sE1jz6821dGRWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1499683383370&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=W0IF3T6I0YAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155238186329&ispcode=55
+#EXTINF:2 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8jImOa2AKrqwa1m%2FJfhcesyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1488531249398&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M5E3S23XZ6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449720260101155240980674&ispcode=55
+
+Stripe
+
+#EXTINF:2 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001293&contentid=ch00000000000000001293&videoid=ch00000090990000001127&recommendtype=0&userid=1446387897422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OY4RBOUL5WXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+Vanilla
+
+#EXTINF:2 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqkZ6SnNx3gh97OtxQ2ygibytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001179&contentid=ch00000000000000001179&videoid=ch00000090990000001103&recommendtype=0&userid=1847927235474&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FR3HWWBCXEEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.173.10:6610/001/2/ch00000090990000001155/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bop4OXrlwmfDc6Bu48vA%2B4AytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001335&contentid=ch00000000000000001335&videoid=ch00000090990000001155&recommendtype=0&userid=1436446282400&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZCER3GW1NZPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.173.26:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoMJQgjeNgI0lKcIWq2Qc67ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001815&contentid=ch00000000000000001815&videoid=ch00000090990000001327&recommendtype=0&userid=1715152829702&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4UH5RFC56HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1130713546686&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGMTXNDRQLDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br1gDY5x7IZ%2FDqQTvxeS3W1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001317&contentid=ch00000000000000001317&videoid=ch00000090990000001147&recommendtype=0&userid=1315480960661&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IK7JAFC7DFXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+GF of Ho Salt and Ho Salt
+
+#EXTINF:4 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001396&contentid=ch00000000000000001396&videoid=ch00000090990000001178&recommendtype=0&userid=1894774110158&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8K2SX2J7IIWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:2 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV0
+http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+Radios
+
+#EXTINF:-8 tvg-logo="" group-title="Radios", RD-A-Scream Radio
+https://tunein.cdnstream1.com/3520_96.aac/playlist.m3u8
+
+#EXTINF:-8 tvg-logo="" group-title="Radios", RD-A-Clubmix
+https://stream.zeno.fm/d42hdvx96zhvv
+
+#EXTINF:-8 tvg-logo="" group-title="Radios", RD-A-Emotions
+https://stream.zeno.fm/03v7z8edgphvv
+
+#EXTINF:-8 tvg-logo="" group-title="Radios", RD-A-Hot Hip-Hop N R&B
+https://stream.zeno.fm/qrhuqbnm208uv
+
+#EXTINF:-8 tvg-logo="" group-title="Radios", RD-A-iMix
+https://stream.zeno.fm/xnuifxjgpomvv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-14.3 Global Online Radio
+http://65.108.124.70:8255/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-15.5 T.L.C.S.P PINOY FM
+https://stream.hornhost.com/8014/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-88.7 Love Music Radio
+http://radio.7lovemusicradio.net:8050/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-89.5 Brigada News FM - DXYM
+http://18.141.67.248:8000/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-89.7 Touch Fm Quezon City radio
+https://stream.hornhost.com/8126/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-90.7 Love Radio Manila
+https://boracayfm.stream.laut.fm/boracayfm
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-91.5 Wows Radio Station
+https://stream.hornhost.com:8022/stream.nsv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-91.9 Radyo Natin - DWSG
+http://stream.radyonatinfm.com:8010/dwsg
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-95.3 Love Radio - DWKS
+https://loveradiodaet.radioca.st/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-96.9 Easy Rock Cagayan de Oro - DXKS
+http://easyrockcagayan.radioca.st:9720/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-97.5 Love Radio Iloilo
+http://loveradio.live24.gr/loveradio-1000
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-98.3 Love Radio Dagupan
+https://loveradiodagupan.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-99.1 Love Radio Naga - DWYN
+http://loveradionaga.radioca.st:8070/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-99.3 Yes The Best - DXFE-FM
+http://yesfmiligan.radioca.st:8181/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-100.7 Love Radio Lucena
+https://loveradiolucena.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-101.5 Love Radio
+http://loveradiogensan.radioca.st:8021/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-101.7 Love Radio La Union
+https://loveradiolaunion.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-101.7 Your Love FM radio
+https://chloreign.com/listen/sanibpwersa/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-102.7 YES FM Zamboanga
+http://yesfmzamboanga.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-104.2 MIX LOVER
+https://stream.hornhost.com/8036/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-104.7 Scaf FM
+https://radio1.reans.net/radio/8000/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-104.7 Yes The Best - DXYR
+http://yesfmcdo.radioca.st:8040/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-105.1 Easy Rock Davao
+https://easyrockdavao.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-105.7 Love Radio Roxas
+http://loveradioroxas.radioca.st
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-106.7 Radyo Natin Agoo
+https://pinas.radyonatinfm.com/listen/dwis/agoo
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-201.9 Adzaa Online Radio FM
+https://stream.hornhost.com/8016/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Super radyo audio
+https://gsattv.akamaized.net/live/media0/radiodzbb/Fairplay/radiodzbb.m3u8
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-997 My Friends FM
+http://trappist.shoutca.st:8171/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Anime Alliance Online Radio
+https://s3.citrus3.com:8010/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Atlantis
+https://us2.amfmph.com:8080/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Beat FM 102.9
+https://stream.hornhost.com/8058/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Bespren Radio
+https://streamnavs.net:8089/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-105.5 BiG SOUND fm DWAA -  San Fernando City, La Union, Philippines
+http://162.220.162.10:8011/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Boracay FM
+https://boracayfm.stream.laut.fm/boracayfm?ref=web-app&ampt302=2019-04-09_12-22-23&ampuuid=f6d43b18-d040-49a3-b7af-4ca2f177541a
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Boracay FM laut.fm
+http://boracayfm.stream.laut.fm/boracayfm?ref=vtuner
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Breezylyn FM
+http://178.netromedia.com:8000/BreezeFM
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Brigada News FM Gensan
+http://18.141.67.248:8000/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Cathedral of Praise Bible Radio - DZBR
+http://stream.radio.co/se9de95c10/listen
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-CHRK-DB Manila HD
+http://cheetah.streemlion.com:1730/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Coolfm Rock
+https://mediagw.e-tiger.net/stream/zc10
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Virgin Radio (Christian) Philippines
+https://stream.zeno.fm/q1uwefuf4ceuv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-CyberPinoy Radio
+https://securestreams.autopo.st:1215
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Dance Radio Philippines
+http://us1.amfmph.com:8518/autodj
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Disco House
+https://live.radiospinner.com/disco-house-64
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-DWIZ radio
+https://dwizmanila.radioca.st/stream?
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-DWMB 95.1 FM Love Radio Baguio
+http://loveradiobaguio.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-DXKI Strong Radio 90.3
+http://67.212.238.178:7007/stream.nsv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-DYHB RMN Bacolod
+https://us2.amfmph.com:8848/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-DYRI
+https://us1.amfmph.com:8011/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-DYRN 
+https://io.radyonatinfm.com/listen/dyrn/laoang
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-DZBR Bible Radio 531
+https://stream.radio.co/se9de95c10/listen
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-DZRH News AM
+https://streamingv2.shoutcast.com/JamendoLounge
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Easy RocK
+https://easyrockcebu.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Einnz Online Radio
+https://dharkgfx.com/listen/einnz/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Energy
+http://stream.hornhost.com:8109/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Exclusively The Everly Brothers Listen live
+https://streaming.exclusive.radio/er/everlybrothers/icecast.audio
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Favradio
+http://stream.favhosting.com:8109/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Favradio Manila radio
+https://stream.hornhost.com/8109/stream.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-FMR Tagum
+http://de3.amfmph.com:8679/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-FReSH FM PH
+https://s36.radiolize.com/radio/8170/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Green Giant FM
+https://str1.streamhostpg.com.br:8010/stream?1604661148956
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Guimaras Worldwide Radio FM
+https://dharkgfx.com/listen/guimarasworldwidefm/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-guimaraskissfm radio
+https://dharkgfx.com/radio/8010/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Home Radio
+https://hrmanila.radioca.st/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Hot FM 96.3
+https://stream.hornhost.com/8052/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Hugot Radio 2.0
+http://65.108.124.70:8497/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-icprm radio Default Relay
+https://stream.zeno.fm/4prwagzv9s5tv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-ICPRM RADIO Mega Manila Default Relay
+https://stream.zeno.fm/89fuftdzyy5tv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-fImmortalfm
+http://trappist.shoutca.st:8165/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Islamic Radio Filipino Tagalog
+http://104.7.66.64:8009/?icy=http
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-JAKXFM Radio
+https://de3.amfmph.com:8150/stream?time=1519230990208
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Jamz Radio Philippines Default Relay
+https://stream.zeno.fm/yu7rwcq3wy5tv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Kirubai FM - Tamil
+https://lovesantiago.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-
+https://stream.zeno.fm/gdh4m7vsebruv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-KLASSfm 
+https://klassfm.radioca.st
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-
+https://stream.zeno.fm/8w7hpc4gh1duv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-LivingWord.PH iRadio
+http://loveradiobutuan.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love FM 98.9
+http://centova57.instainternet.com:8179/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio 95.1 - DXMB
+http://loveradiobutuan.radioca.st:8091/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Bacolod
+http://loveradiobacolod.radioca.st:8088/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Baguio DWMB
+https://loveradiobaguio.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Butuan
+https://loveradiobutuan.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Catarman
+http://lovecatarman.radioca.st:8796/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Cebu
+http://loveradiocebu.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Daet
+http://loveradiodaet.radioca.st:8804/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Dagupan
+http://loveradiodagupan.radioca.st:8195/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Legaspi
+http://loveradiolegaspi.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Lucena
+http://loveradiolucena.radioca.st:8158/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Malaybalay
+http://lovemalaybalay.radioca.st:8828/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Naga
+http://loveradionaga.radioca.st:8070/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Palawan
+http://loveradiopalawan.radioca.st:8105/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Roxas
+http://loveradioroxas.radioca.st:8216/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Santiago
+http://lovesantiago.radioca.st:8832/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Tacloban
+http://lovetacloban.radioca.st:8113/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Tacloban DYTM 91.1
+https://lovetacloban.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Tuguegarao
+http://lovetuguegarao.radioca.st:8086/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Zamboanga
+http://lovezamboanga.radioca.st:8157/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radyo Laoag
+http://loveradiolaoag.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-LTM Radio Philippines
+http://cast4.my-control-panel.com:7396/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Manila Bay Beach Radio
+https://s4.radio.co/sd319ba2a4/listen
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Mapua Radio Cardinal
+http://edge.mixlr.com/channel/nhtli
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Memories FM 89.9
+http://s5.reliastream.com:7134/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-MSFM 105.3
+http://209.126.105.44:8219/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Music Tambayan
+https://dharkgfx.com/radio/8000/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-OK-FM 97.5 DZOK-FM
+http://120.28.221.139:8000/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-0 - ONE FM
+http://radio3.reans.net:8030/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Party Rock FM
+https://radio21.streamabc.net/radio21-partyrock-mp3-256-7707367
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-PHR 80.9 FM
+https://djsamu.radioca.st/stream.nsv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Pinoy DJ Radio
+http://usa4.fastcast4u.com:5276/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Pinoy Global Stream Default Relay
+https://stream.zeno.fm/qunkzrt2qvduv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Pinoy Radio - Live, Pop, OPM, Pinoy, Love, Tagalog, CHR, Pilipino, Filipino, Music 
+http://167.114.11.79:16224/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Pinoy Rap Radio
+http://sp2.streams.ovh/8004/stream/stream/1
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-POP Radio
+https://popvip-gecko.radioca.st/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Radio Maria Philippines
+http://dreamsiteradiocp2.com:8052/stream.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-RADIO NE FM100 Default Relay
+https://stream.zeno.fm/k2uz08e71ueuv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Radio Tamaraw Online
+http://audiostreamen.nl:8006/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Radyo Bandera Iloilo - DYKU
+http://209.126.124.126:8647/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B
+http://stream.zeno.fm/3ninviiwep8uv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Radyo Magkaisa 98.1 FM
+http://s32.myradiostream.com:7202/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Radyo Natin Pinamalayan radio
+https://sound.radyonatinfm.com/listen/dwmk/pinamalayan
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-RainbowFM
+https://rainbowfm2020.radioca.st/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-RMN Cebu - DYHP
+http://62.138.18.102:8257/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-RMN Iloilo - DYRI
+http://us1.amfmph.com:8011/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-RMN Radyo lloilo
+https://us1.amfmph.com:8011/mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Rock109
+http://listen.classicrock109.com:10042/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-RPN-DXKS Surigao - DXKS
+http://dxks-rpnradio.radioca.st:8448/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-RVFM radio
+https://a3.asurahosting.com:6160/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Sabik FM
+http://nebula.shoutca.st:8334/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Slowly Radio
+https://listen.radioking.com/radio/421816/stream/476452
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Spirit FM 103.9
+https://popvip-gecko.radioca.st/stream/1/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Sunshine FM Radio
+https://23203.live.streamtheworld.com/4SFM_SC
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Supreme Radio 99.7 FM
+https://stream.hornhost.com/8046/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Virgin Radio (RnB)Philippines
+https://stream.zeno.fm/4uvhk732g9duv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-TPPFM
+http://streamnavs.net:8143/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Troy FM
+https://live.streamguys1.com:2385/troy1
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-True Life In God Radio Filipino
+https://stream.tligradio.org/listen/filipino/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Uragon Hot Radio 99.8
+https://eu10.fastcast4u.com/uragon98
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-VHive
+http://192.99.8.192:3154/www.vhiveradio.com/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Vine Radio 88.9
+http://cast2.my-control-panel.com:8091
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-WILD HEART FM 97.1
+https://eu10.fastcast4u.com/wildheart
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Wows Radio Station 91.5
+https://stream.hornhost.com/8022/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-XFM 96.7 Bacolod
+http://209.126.124.126:8684/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Yes FM - Boracay
+http://yesfmboracay.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Yes FM Dagupan 106.3
+http://chandra.shoutca.st:10300/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Yes The Best 91.5
+https://yesfmcebu.radioca.st/stream.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Yes The Best Dagupan - DWHR
+http://yesfmdagupan.radioca.st:10300/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Yes The Best Urdaneta - DZVM
+http://yesfmurdaneta.radioca.st:8258/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Yes! The Best Cagayan De Oro
+http://yesfmcdo.radioca.st:8040/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-YES! The Best Cebu 91.5
+https://yesfmcebu.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-YES! The Best Dagupan 106.3
+https://yesfmdagupan.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Yes! The Best Dumaguete - DYYD
+http://yesfmdumaguete.radioca.st:8406/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-YES! The Best Iligan 99.3
+https://yesfmiligan.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-YES! The Best Valencia 104.1
+https://yesfmvalencia.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Yes! The Best Valencia - DXAT
+http://yesfmvalencia.radioca.st:8231/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-ZNS Pinoy Online Radio
+https://fast.citrus3.com:8484/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-zRadio
+http://streamnavs.net:8091/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Rage Music Philippines
+https://stream.zeno.fm/yu9dryfs7x8uv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Vibe Radio
+https://stream.zeno.fm/zf0ac4raqy8uv
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-91.9 Radyo Natin - DWSG
+http://stream.radyonatinfm.com:8010/dwsg
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-92.3 Easy Rock Iloilo 
+https://easyrockiloilo.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-93.5 Easy Rock Boracay 
+https://easyrockboracay.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-97.5 Love Radio Iloilo
+http://loveradio.live24.gr/loveradio-1000
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-97.7 Love Radio Tarlac 
+http://loveradiotarlac.radioca.st
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-99.1 Love Radio Naga - DWYN
+http://loveradionaga.radioca.st:8070/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-99.3 Yes The Best - DXFE-FM
+http://yesfmiligan.radioca.st:8181/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-101.5 Love Radio 
+http://loveradiogensan.radioca.st:8021/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-101.7 Love Radio La Union 
+https://loveradiolaunion.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-101.7 Your Love FM radio
+https://chloreign.com/listen/sanibpwersa/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-102.7 YES FM Zamboanga
+http://yesfmzamboanga.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-104.7 Scaf FM 
+https://radio1.reans.net/radio/8000/radio.mp3
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-997 My Friends FM
+http://trappist.shoutca.st:8171/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Breezylyn FM
+http://178.netromedia.com:8000/BreezeFM
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-CHRK-DB Manila (HD) 
+http://cheetah.streemlion.com:1730/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Disco House 
+https://live.radiospinner.com/disco-house-64
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Dxki Strong Radio 90.3
+http://67.212.238.178:7007/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Hugot Radio 2.0
+http://65.108.124.70:8497/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Immortalfm
+http://trappist.shoutca.st:8165/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Islamic Radio Filipino Tagalog 
+http://104.7.66.64:8009/?icy=http
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-JAKXFM Radio 
+https://de3.amfmph.com:8150/stream?time=1519230990208
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Love Radio Tarlac
+http://loveradiotarlac.radioca.st/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-MystFM925
+http://eu8.fastcast4u.com:21123/stream
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Pinoy Rap Radio
+http://sp2.streams.ovh/8004/stream/stream/1
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Radyo Natin - Pinamalayan radio
+https://sound.radyonatinfm.com/listen/dwmk/pinamalayan
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-RMN Cebu - DYHP
+http://62.138.18.102:8257/stream/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Rock109
+http://listen.classicrock109.com:10042/
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-TPPFM 
+http://streamnavs.net:8143/live
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-Uragon Hot Radio 99.8
+https://eu10.fastcast4u.com/uragon98
+
+#EXTINF:-9 tvg-logo="" group-title="Radios", RD-B-VHive
+http://192.99.8.192:3154/www.vhiveradio.com/
+
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-DZMM Radyo Patrol 630
+https://stream.zeno.fm/yaksrqvb35duv?type=.aac
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-El Shaddai radio
+https://in-icecast.eradioportal.com:8443/dwxi-streaming
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-87.5 Republika ni Juan
+https://stream.zeno.fm/qnt98p5m108uv
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-89.1 AWR Manila
+http://192.53.113.120:8000/stream?type=.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-89.9 Magic
+https://stream.zeno.fm/sh37pvfd938uv
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-90.7 Love Radio
+https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-91.5 Win Radio
+https://stream.zeno.fm/nz4ydgnu6hhvv
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-92.3 FM RADIO Manila
+http://us1.amfmph.com:8872/stream?type=.aac
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-93.1 Monster Radio RX 
+https://in-icecast.eradioportal.com:8443/monsterrrx
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-95.5 Eagle FM
+http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-96.3 Easy Rock
+https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-Baranggay LS
+https://gsattv.akamaized.net/live/media0/radiodwls/Fairplay/radiodwls.m3u8
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-97.9 Home Radio
+https://hrmanila.radioca.st/stream
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-98.7 The Master's Touch
+http://sg-icecast.eradioportal.com:8000/febc_dzfe
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-99.5 xfm Metro Manila
+https://prox.radyoph.com/s/346e90a13a75701e0bef5fefd181872f
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-100.3 RJ FM
+https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-101.1 Yes Fm
+https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-MOREntertainment 101.9
+https://stream.zeno.fm/0ha8ftewqp8uv?type=.aac
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-102.7 Star FM
+https://stream.zeno.fm/69b1kf7q0y5tv
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-103.5 All Radio
+http://103.36.17.18:8000/stream
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-104.3 The Capital
+http://122.53.138.32:8000/dwbr.mp3
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-105.1 Brigada news fm
+http://18.141.67.248:8068/stream
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-105.9 true fm dwla
+https://listen.mixlr.com/5d44c1e17e4e0b70ad9c923fdae0da8a
+
+#EXTINF:-a tvg-logo="" group-title="Radios", RD-C-106.7 Energy FM
+http://ph-icecast.eradioportal.com:8000/energyfm_manila
