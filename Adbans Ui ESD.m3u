@@ -66,9 +66,9 @@ http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v8
 http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:10 ch-number="27" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/f6/52/cc/f652ccc020618df794c8eaba16958fca.jpg",TV01-Kapamilya channel
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="28" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="",TV01-Cartoon channel Philippines
+#EXTINF:10 ch-number="28" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://files.kick.com/images/user/108513699/profile_image/conversion/9f20a50a-e53d-44fb-ac05-a8bfa0ffdd5f-fullsize.webp",TV01-Cartoon channel Philippines
 https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8
-#EXTINF:10 ch-number="29" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV01-One PH
+#EXTINF:10 ch-number="29" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/04/69/f9/0469f934594c3b0111cfa128b6f2247f.jpg",TV01-One PH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
