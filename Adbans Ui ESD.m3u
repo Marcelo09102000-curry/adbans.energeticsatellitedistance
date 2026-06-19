@@ -139,7 +139,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
-#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="KBS.World.(HD).sg" tvg-logo="",TV03-KBS world
+#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="KBS.World.(HD).sg" tvg-logo="https://i.pinimg.com/736x/12/02/53/120253fb850edc03552e852e1406c5d3.jpg",TV03-KBS world
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
