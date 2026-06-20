@@ -150,26 +150,26 @@ http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87
 Sig
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/53/30/31/533031f2385a83c45121cee438a4c1a2.jpg"
 
-#EXTINF:40 ch-number="0" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="",TV04-myx
+#EXTINF:40 ch-number="0" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/lMSsOh4VrmikGoDRYRflQVUjN5bT8x1GiHlo3vux6P4PcSxvrV2nIMUiRN1DSTFS8uqJgIP87Fs=s160-c-k-c0x00ffffff-no-rj",TV04-myx
 http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:40 ch-number="0" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="",TV04-Hallypop
+#EXTINF:40 ch-number="0" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/a7/20/a1/a720a17970dec6d1268bf9496424d3ab.jpg",TV04-Hallypop
 http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 
 Half
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/38/c2/a3/38c2a36fe79ca4d49943bcfcd32781c0.jpg"
 
-#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="arirang_sd.cignal" tvg-logo="",TV05-Arirang
-http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="dr_tv5_monde.cignal" tvg-logo="",TV05-Monde Asie
+#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="arirang_sd.cignal" tvg-logo="https://yt3.googleusercontent.com/dX3EGzw1yioZNWqn1YSlII61pbFcvyV3Ixe5LWYNivxoQ_84T81G9mXSvZqifPL2Fnk9LZHFEQ=s160-c-k-c0x00ffffff-no-rj",TV05-Arirang
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="dr_tv5_monde.cignal" tvg-logo="https://yt3.googleusercontent.com/XDbdehoVvjmIXJZDNJNEUDFtB-GiQSe0NETR5mZoZp5uPAC_kaOU1G16PNvJqnFfwJ-DSRvQF2g=s160-c-k-c0x00ffffff-no-rj",TV05-Monde Asie
 http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrZbWy4P3NKKVNXe3wACXZmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001336&contentid=ch00000000000000001336&videoid=ch00000090990000001156&recommendtype=0&userid=1384915951397&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QZOPZ9VOOVLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="",TV05-tvE
+#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/1c/97/70/1c9770fdde42e686d58770b7f4dc487e.jpg",TV05-tvE
 http://136.158.97.2:6610/001/2/ch00000090990000001112/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0ljLQuLaqTKdgvofK6hc4ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001275&contentid=ch00000000000000001275&videoid=ch00000090990000001112&recommendtype=0&userid=1405270067404&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O5OYCFP87ZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="",TV05-Phoenix
+#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/0DVIlBXVrcph_VblCI-B0lFTXHOQ9ottOBU4I8dY57IQl600eVqiM3dTp4aaNe1Ee7RFYosd4Ls=s160-c-k-c0x00ffffff-no-rj",TV05-Phoenix
 http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrJ%2FmqaM1lrBiCRhhaFxCv%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001274&contentid=ch00000000000000001274&videoid=ch00000090990000001113&recommendtype=0&userid=1615200557296&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=F3CWPRYA79AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="",TV05-Fuji
+#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/2RTg7Siqu3Utn1QNm9p6P4hAjMpd-TiMg076HdrLz1sTkWZspzsyqEq39FxFWQk8C-06lWnpDQ=s160-c-k-c0x00ffffff-no-rj",TV05-Fuji
 http://136.239.158.18:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1293542013193&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FHCWZ7XXFIVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="",TV05-NHK BS
+#EXTINF:60 ch-number="0" group-title="Half" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d6/1e/94/d61e944681cc630f98fbf97fdf32b619.jpg",TV05-NHK BS
 http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1516257620825&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N8EJG3JY51DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 Loaf
