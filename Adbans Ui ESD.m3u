@@ -192,17 +192,17 @@ http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87H
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 #EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/2f/54/cb/2f54cb9a8eb9e9258acb6e0b4dc5dc2c.jpg",TV06-FilAm
 http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="fashiontvhd.cignal" tvg-logo="fashiontvhd.cignal",TV06-Fashion TV
+#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="fashiontvhd.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nGk-I3TWbRvaq1tVt9oITiwHXUoOcSd3VRqLy_ciq9pvXb=s160-c-k-c0x00ffffff-no-rj",TV06-Fashion TV
 http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 Maya
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/da/6c/51/da6c51e6bb628b7aee3c9c137f59a5e2.jpg"
 
-#EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-pbo
+#EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="pbo.click" tvg-logo="https://i.pinimg.com/736x/37/53/41/3753419e3ceaa8f4fcf6e50653ce7a3b.jpg",TV07-pbo
 http://136.239.158.18:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq9SZLE5HgafIcQ2VcLQB9EsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1960500443734&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8WK79ZSBXVGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447120260101155236008695&ispcode=55
-#EXTINF:70ch-number="0" group-title="Maya" tvg-name="" tvg-id="cinema-one.click" tvg-logo="",TV07-Cinema one
+#EXTINF:70ch-number="0" group-title="Maya" tvg-name="" tvg-id="cinema-one.click" tvg-logo="https://yt3.googleusercontent.com/6d8kt2PVLo05xy8811N_K6W058RfHfVUkV4P_GE4ELS4Ii3H03NtGaDXgYfNttHr-q7-tfBlTQ=s160-c-k-c0x00ffffff-no-rj",TV07-Cinema one
 http://136.239.158.10:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr2cQyuTRlDkHeiqeVidUqqsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1481102669463&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7TIMXILHNX5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445520260101155240041967&ispcode=55
-#EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="cg_hbofam.cignal" tvg-logo="",TV07-HBO Family
+#EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="cg_hbofam.cignal" tvg-logo="https://i.pinimg.com/736x/ff/90/23/ff9023eb7147fdd810bc510072a0ada6.jpg",TV07-HBO Family
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
