@@ -119,21 +119,21 @@ Salgu
 
 #EXTINF:4 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="Jeepney.TV.ph" tvg-logo="",TV03-Jeepney TV
 http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV03-Warner TV
+#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="cg_warnerhd.cignal" tvg-logo="https://yt3.googleusercontent.com/dYJQeCClNSD6VkWbLFxzm7NBxKa81lryjF4DkADs2UxbrfjO9IzxTv0vrpWVKuYhBDA8yzYcqQ=s120-c-k-c0x00ffffff-no-rj",TV03-Warner TV
 http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV03-Kapatid channel
+#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/56/66/31/566631bdbe3780433dc1021f97c049ed.jpg",TV03-Kapatid channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=045d103180f64562b1db7c932741c3ba:c3380548b9075c767a6ae2006ef4bff8
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kapatid_hd/default/index.mpd
-#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV03-Tap Edge
+#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/3c/c4/82/3cc4829e4120b2913b6bf6f2e8385528.jpg",TV03-Tap Edge
 http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV03-KiX
+#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="kix_hd1.cignal" tvg-logo="https://i.pinimg.com/736x/6e/dd/9c/6edd9cbf5f860ce2f2050a5575e5ad90.jpg",TV03-KiX
 http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV03-BuKO
+#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="buko.cignal" tvg-logo="https://i.pinimg.com/736x/22/62/1e/22621e2e3b941da4e7ff11ae9a37d760.jpg",TV03-BuKO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
-#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV03-Tap TV
+#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/bf/85/c0/bf85c0965a5c45e64bb83522c4c3ab35.jpg",TV03-Tap TV
 http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="AXN.ph" tvg-logo="",TV03-AXN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
