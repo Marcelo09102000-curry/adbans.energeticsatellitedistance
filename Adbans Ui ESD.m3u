@@ -175,24 +175,24 @@ http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87H
 Loaf
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/60/7f/fd/607ffd2b717508a83f6190fd5134eaaa.jpg"
 
-#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV06-Mindanow
+#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/f8/2a/e0/f82ae0037266cb99ccddd0128fc7a954.jpg",TV06-Mindanow
 http://136.239.173.26:6610/001/2/ch00000090990000001123/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001237&contentid=ch00000000000000001237&videoid=ch00000090990000001123&recommendtype=0&userid=1545743380024&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7NAS0TOF95HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="HGTV.HD.my" tvg-logo="",TV06-HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
-#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV06-LAC HD
+#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/8d/00/bd/8d00bd63f01c51ceb16d810f1b51db8e.jpg",TV06-LAC HD
 http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV06-Metro channel
+#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/66/78/58/66785860bb5ee28282caf488b31bbe8f.jpg",TV06-Metro channel
 http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV06-Animal planet
+#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d8/0e/2d/d80e2d80fe28a6200249f3be095881f5.jpg",TV06-Animal planet
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
-#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV06-FilAm
+#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/2f/54/cb/2f54cb9a8eb9e9258acb6e0b4dc5dc2c.jpg",TV06-FilAm
 http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="",TV06-Fashion TV
+#EXTINF:50 ch-number="0" group-title="Loaf" tvg-name="" tvg-id="fashiontvhd.cignal" tvg-logo="fashiontvhd.cignal",TV06-Fashion TV
 http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 Maya
