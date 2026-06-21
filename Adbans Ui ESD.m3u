@@ -16,7 +16,7 @@ http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87
 #EXTINF:10 ch-number="5" group-title="Curry" tvg-name="" tvg-id="tv5.click" tvg-logo="https://yt3.googleusercontent.com/P0iMOjoj0J8K00abV7lDXlFMQN5oWdsvJSjGLmaYyKg0iswNEKrHVgrRgtczfspRAwScba4IbQ=s160-c-k-c0x00ffffff-no-rj",TV01-TV5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 #EXTINF:10 ch-number="6" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ETS9Wuhg-CyHyZCPicgcUH2RGq3EL02Z1uIPmi4OnWCJaP-hRYmwnDQoZ75eXLG29x3ttLJ9=s160-c-k-c0x00ffffff-no-rj",TV01-RPTV SD
 http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BplioRPAB6XCf%2FrlkX7xxQZytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001215&contentid=ch00000000000000001215&videoid=ch00000090990000001094&recommendtype=0&userid=1177699247918&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YBHPP0KWBIFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:10 ch-number="7" group-title="Curry" tvg-name="" tvg-id="a2z.click" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLeQ06yImFbJI0oNRt-Cm1sUZw3Cep5KBFsOt6zKyO7w=s160-c-k-c0x00ffffff-no-rj",TV01-A2Z
@@ -40,7 +40,7 @@ http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v8
 #EXTINF:10 ch-number="16" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/d-2Zn_yyww0OAy-xSfvIoWoJueTpH7lfL4G9uz6BL5SybJIcDLBuiBSBWKDzqGTbSfhtGKTAPw=s160-c-k-c0x00ffffff-no-rj",TV01-One sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
 #EXTINF:10 ch-number="17" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/XdUviTAGcIROhoTUxa3uXl2bHEwEtYMst75DSdyhkFaqWOrtOz9AU5vFz8r-THEuonb5UfxfCw=s160-c-k-c0x00ffffff-no-rj",TV01-GNN
 http://136.158.97.2:6610/001/2/ch00000090990000001234/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp6sHVPy02nySMqUY2vMm%2BjytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001523&contentid=ch00000000000000001523&videoid=ch00000090990000001234&recommendtype=0&userid=1521078532205&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EP8Z20BUC89XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:10 ch-number="18" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/QsV62xECe58iGd1zE30j5gBOIL8WIlIiXbbNwiIWfxxuW4trXx17KszewWvVF69nHEIFm30X=s160-c-k-c0x00ffffff-no-rj",TV01-INCTV
@@ -72,7 +72,7 @@ https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m
 #EXTINF:10 ch-number="30" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/04/69/f9/0469f934594c3b0111cfa128b6f2247f.jpg",TV01-One PH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
 
 Amogus
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/78/9a/fa/789afab38558427e2b41f479f46e695b.jpg"
@@ -107,10 +107,10 @@ http://161.49.17.2:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD
 http://136.239.159.20:6610/001/2/ch00000090990000001176/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx%2BXO6kYP1duDF0CR%2BT7zbsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001413&contentid=ch00000000000000001413&videoid=ch00000090990000001176&recommendtype=0&userid=1163214779459&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z7HHHB7UI99XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451220260101155239052564&ispcode=55
 #EXTINF:20 ch-number="43" group-title="Amogus" tvg-name="" tvg-id="DW.English.my" tvg-logo="",TV02-Deutsche Welle
 http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoTcUYwq3PMi%2FTObKiSY6bDsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001377&contentid=ch00000000000000001377&videoid=ch00000090990000001166&recommendtype=0&userid=1791156066269&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8DYR6H98V3NXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155239188177&ispcode=55
-#EXTINF:20 ch-number="44" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/05/5c/4c/055c4cc8d9720786edfe1de9d813013f.jpg",TV02-TrueTV
+#EXTINF:20 ch-number="44" group-title="Amogus" tvg-name="" tvg-id="truefm_tv.cignal" tvg-logo="https://i.pinimg.com/736x/05/5c/4c/055c4cc8d9720786edfe1de9d813013f.jpg",TV02-TrueTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4e2b9d61c754f3a8d109b6c2f1e7a55:1d8d975f0bc2ed90eda138bd31f173f4
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/truefm_tv/default/index.mpd
 #EXTINF:20 ch-number="45" group-title="Amogus" tvg-name="" tvg-id="ABC.Australia.HD.my" tvg-logo="",TV02-ABC Australia
 http://136.239.173.26:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpS6W%2B6YCeAzzWlWVs9TWyRytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001273&contentid=ch00000000000000001273&videoid=ch00000090990000001111&recommendtype=0&userid=1836152308422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OIM96MPU9AXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -132,13 +132,13 @@ http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v8
 #EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="buko.cignal" tvg-logo="https://i.pinimg.com/736x/22/62/1e/22621e2e3b941da4e7ff11ae9a37d760.jpg",TV03-BuKO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_buko_sd/default/index.mpd
 #EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/bf/85/c0/bf85c0965a5c45e64bb83522c4c3ab35.jpg",TV03-Tap TV
 http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="AXN.ph" tvg-logo="",TV03-AXN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
 #EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="KBS.World.(HD).sg" tvg-logo="https://i.pinimg.com/736x/12/02/53/120253fb850edc03552e852e1406c5d3.jpg",TV03-KBS world
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
@@ -146,6 +146,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mp
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 #EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV03-
 http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:30 ch-number="0" group-title="Salgu" tvg-name="" tvg-id="dr_lifetime.cignal" tvg-logo="",TV03-Lifetime
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
 
 Sig
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/53/30/31/533031f2385a83c45121cee438a4c1a2.jpg"
@@ -205,7 +209,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v8
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="cg_hbofam.cignal" tvg-logo="https://i.pinimg.com/736x/ff/90/23/ff9023eb7147fdd810bc510072a0ada6.jpg",TV07-HBO Family
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="viva-cinema.click" tvg-logo="https://i.pinimg.com/736x/96/d8/bc/96d8bc294e0af40b95459c4b88740c2a.jpg",TV07-Vivacinema
 http://136.239.159.20:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1022847749017&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LZTWKL0XP7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445920260101155236183812&ispcode=55
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-TMC
@@ -213,7 +217,7 @@ http://136.239.173.2:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="cg_tvnpre.cignal" tvg-logo="",TV07-tvN Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-Celestial movies pinoy
 http://136.239.158.30:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1058297419636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B8CE333QUH6XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447420260101155236077598&ispcode=55
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-Celestial Classic movies
@@ -223,7 +227,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87H
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-Rock action
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockextreme/default/index.mpd
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-Tap movies
 http://136.239.158.10:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArqmX9tLke4aZIpUgreyOpN2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1535415299339&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KA8C98C3ZAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453120260101155241063274&ispcode=55
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-Tap action flix
@@ -233,19 +237,19 @@ http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v8
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="cg_hbohits.cignal" tvg-logo="",TV07-HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-thrill
 http://136.239.158.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq7M3KTlp1dzcZcVVxlNmQdsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1158498506531&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EZ3GLGN6GRKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446720260101155240169312&ispcode=55
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="cg_hbosign.cignal",TV07-HBO signature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="cg_cinemax.cignal" tvg-logo="",TV07-Cinemax
 http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoD7Jkv0l3sE1jz6821dGRWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1499683383370&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=W0IF3T6I0YAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="tvN.Movies.HD.my" tvg-logo="https://i.pinimg.com/736x/a2/f5/53/a2f553efc3b51b7502547890f4c8f969.jpg",TV07-tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
 
 Stripe
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/1c/a5/96/1ca5961fef0e6efba4e2f3a24cc0830a.jpg"
@@ -254,17 +258,17 @@ Stripe
 http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:80ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-Edge sports
 http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:80 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-SpotV
+#EXTINF:80 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="cg_spotvhd.cignal" tvg-logo="",TV08-SpotV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
-#EXTINF:80 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-PBA rush
+#EXTINF:80 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="cg_pbarush_hd1.cignal" tvg-logo="",TV08-PBA rush
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 #EXTINF:80 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-Premier sports
 http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:80 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-SpotV2
+#EXTINF:80 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="dr_spotv2hd.cignal" tvg-logo="",TV08-SpotV2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
@@ -276,7 +280,10 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/defau
 http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:80 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-Premier Football
 http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001293&contentid=ch00000000000000001293&videoid=ch00000090990000001127&recommendtype=0&userid=1446387897422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OY4RBOUL5WXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
+#EXTINF:80 ch-number="0" group-title="Stripe" tvg-name="" tvg-id="cgnl_nba.cignal" tvg-logo="",TV08-NBA TV Philippines
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
+https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
 Vanilla
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/25/67/66/256766273b78e1f3d61b4092154a25fc.jpg"
@@ -352,16 +359,16 @@ GF of Ho Salt and Ho Salt
 #EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="",TV12-Dreamworks (Tagalized)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
 #EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="",TV12-Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
-#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV12-Cartoon Network
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cartoonnetworkhd.cignal" tvg-logo="",TV12-Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV12-Cartoonito
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV12-Nick jr
+#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="dr_nickjr.cignal" tvg-logo="",TV12-Nick jr
 http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:100 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="animax.click" tvg-logo="",TV12-AnimaX
 http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApUjG9Pouw9ZPY2OjOhRVs72%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001853&contentid=ch00000000000000001853&videoid=ch00000090990000001315&recommendtype=0&userid=1839722974667&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKNK24RBBRLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
