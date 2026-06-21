@@ -206,7 +206,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
-#EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-Vivacinema
+#EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="viva-cinema.click" tvg-logo="https://i.pinimg.com/736x/96/d8/bc/96d8bc294e0af40b95459c4b88740c2a.jpg",TV07-Vivacinema
 http://136.239.159.20:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1022847749017&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LZTWKL0XP7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445920260101155236183812&ispcode=55
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-TMC
 http://136.239.173.2:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHx%2Fyl86rMkFVqtHp1NtQIsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1388444659651&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VT2SEXWH4EOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445620260101155236094993&ispcode=55
@@ -242,7 +242,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v8
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 #EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="cg_cinemax.cignal" tvg-logo="",TV07-Cinemax
 http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoD7Jkv0l3sE1jz6821dGRWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1499683383370&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=W0IF3T6I0YAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="",TV07-tvN Movies
+#EXTINF:70 ch-number="0" group-title="Maya" tvg-name="" tvg-id="tvN.Movies.HD.my" tvg-logo="https://i.pinimg.com/736x/a2/f5/53/a2f553efc3b51b7502547890f4c8f969.jpg",TV07-tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
@@ -349,11 +349,11 @@ https://abslive.akamaized.net/dash/live/2027618/healingeucharist3/manifest.mpd
 GF of Ho Salt and Ho Salt
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/10/8a/54/108a54ea594af460a90ff8338c848ff6.jpg"
 
-#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV12-Dreamworks (Tagalized)
+#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="",TV12-Dreamworks (Tagalized)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
-#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV12-Dreamworks
+#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="",TV12-Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
@@ -371,7 +371,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 
-#EXTM3U url-tvg="https://epgnxb.vercel.app/api/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+#EXTM3U url-tvg="https://epgnxb.vercel.app/api/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
 Radios
 
