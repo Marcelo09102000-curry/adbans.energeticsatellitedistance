@@ -288,57 +288,57 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 Vanilla
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/25/67/66/256766273b78e1f3d61b4092154a25fc.jpg"
 
-#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="cg_hbohd.cignal" tvg-logo="",TV09-TV maria video bacup
+#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="cg_hbohd.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lou2Z2EYLn7dA26_3bHgcGMLVxt5BunoxUAMMVKu_MmIU=s160-c-k-c0x00ffffff-no-rj",TV09-TV maria video bacup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.mpd
-#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="",TV09-Radio maria audio backup
+#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/DA7JzFxg3ER1CWw-9kZegdnfJAdyQZwlyKuxOBDbbbzr0fo3x2AZ6bm2vHJ_s1mtlsqYVjWebA=s160-c-k-c0x00ffffff-no-rj",TV09-Radio maria audio backup
 http://136.239.173.26:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoMJQgjeNgI0lKcIWq2Qc67ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001815&contentid=ch00000000000000001815&videoid=ch00000090990000001327&recommendtype=0&userid=1715152829702&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4UH5RFC56HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="",TV09-EWTN
+#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/aXMeNbOffojVIm0uqTNEUMzmHtA5YxiLzzuj7gAwbuVdsIcv1jx5tkUfMWEEMte4eKT1hasUbJY=s160-c-k-c0x00ffffff-no-rj",TV09-EWTN
 http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1130713546686&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGMTXNDRQLDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="",TV09-TBN Asia
+#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/AfPQUefmXGaTZ4xMhbYf5jc6g9fa6fMarmgFST7arKnHYevaKxo032YNgjwkG38h9m184uvYSdk=s160-c-k-c0x00ffffff-no-rj",TV09-TBN Asia
 http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br1gDY5x7IZ%2FDqQTvxeS3W1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001317&contentid=ch00000000000000001317&videoid=ch00000090990000001147&recommendtype=0&userid=1315480960661&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IK7JAFC7DFXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 Mice Salt
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/ad/2b/c4/ad2bc4e0aac7a6f3d3d137a33053fe6a.jpg"
 
-#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="",TV10-PiLive 1
+#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/28/5c/fa/285cfa21e32e7d5f04f78f53932f660e.jpg",TV10-PiLive 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27059dc8b75841e7a511e67d5e069ae2:b7217f85cb0a1dd7113ed307c363d0df
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi1/default/index.mpd
-#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="",TV10-PiLive 2
+#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/17/4c/6e/174c6ed3d35171aefdf474ad7a7ac3b2.jpg",TV10-PiLive 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi2/default/index.mpd
-#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="",TV10- PiLive 3
+#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/e8/22/c6/e822c6c5848144b9fd4d7275c7a71278.jpg",TV10- PiLive 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi3/default/index.mpd
-#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="",TV10-PiLive 4
+#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/6f/de/486fde6a6b75692030f2a3032fab6dbf.jpg",TV10-PiLive 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi4/default/index.mpd
-#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="",TV10-PiLive 5
+#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/22/78/7d/22787d5fbfe08d1a31c964d509def4ca.jpg",TV10-PiLive 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi5/default/index.mpd
-#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="",TV10-PiLive 6
+#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/cd/9a/dc/cd9adcd6e8c90dd635e2558407f94082.jpg",TV10-PiLive 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi6/default/index.mpd
-#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="",TV10-PiLive 7
+#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/36/f7/b3/36f7b316c98c3293eb510b175703fb5d.jpg",TV10-PiLive 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi7/default/index.mpd
-#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="",TV10-PiLive 8
+#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/66/74/33/66743395654a3925aa1248a7037d6006.jpg",TV10-PiLive 8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi8/default/index.mpd
-#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="",TV10-PiLive 9
+#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/88/aa/47/88aa47a4b9f73cd6784a0298be80368e.jpg",TV10-PiLive 9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi9/default/index.mpd
-#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="",TV10-PiLive 10
+#EXTINF:100 ch-number="0" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/98/84/f8/9884f880ea0a0ab3319365b4a7f24063.jpg",TV10-PiLive 10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
@@ -346,11 +346,11 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
 Kiwi
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/33/87/23/338723e298ae71d8340b85cfbf2664b6.jpg"
 
-#EXTINF:110 ch-number="0" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="",TV11-Its Showtime
+#EXTINF:110 ch-number="0" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/af/45/80/af45808c40f2b047f5b3fc011424d9a8.jpg",TV11-Its Showtime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cdb78338a104ed594175a49532c823d:9c7810c46873053be29d26bf6f753664
 https://abslive.akamaized.net/dash/live/2027618/itsshowtime/manifest.mpd
-#EXTINF:110 ch-number="0" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="",TV11-The Healing Eucharist
+#EXTINF:110 ch-number="0" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d7/06/b1/d706b1526f46302fa5be45aad63b74be.jpg",TV11-The Healing Eucharist
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b84ec93eb33c48e58718e99cd4096c15:9e3a9aee29cbd0375e02c55e0b7b5945
 https://abslive.akamaized.net/dash/live/2027618/healingeucharist3/manifest.mpd
@@ -358,23 +358,23 @@ https://abslive.akamaized.net/dash/live/2027618/healingeucharist3/manifest.mpd
 GF of Ho Salt and Ho Salt
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/10/8a/54/108a54ea594af460a90ff8338c848ff6.jpg"
 
-#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="",TV12-Dreamworks (Tagalized)
+#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="https://i.pinimg.com/736x/0e/5e/4d/0e5e4d4ccef3660132f3581308fc994b.jpg",TV12-Dreamworks (Tagalized)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
-#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="",TV12-Dreamworks
+#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="https://i.pinimg.com/1200x/20/bb/46/20bb46b4c206c7a78822999aa9367501.jpg",TV12-Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
-#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cartoonnetworkhd.cignal" tvg-logo="",TV12-Cartoon Network
+#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="cartoonnetworkhd.cignal" tvg-logo="https://yt3.googleusercontent.com/Te17F6ihWtmKLAV5Ir4Kauw8f7DKFn50aT43b7NEG4b42n0XjpisoywM4Ej8IuxfbXFSNlgk=s160-c-k-c0x00ffffff-no-rj",TV12-Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV12-Cartoonito
+#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Mle8CiTSmWUF4AiXNeu2yChK8OMUIlck93I8YDfzi2YI_bjovWhWy0ahzZxhjpHwUqsPv6aS1g=s160-c-k-c0x00ffffff-no-rj",TV12-Cartoonito
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="dr_nickjr.cignal" tvg-logo="",TV12-Nick jr
+#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="dr_nickjr.cignal" tvg-logo="https://yt3.googleusercontent.com/5Oe6GeP0RS7YYXlcSqCoBCyzYYtoxSgmN0K_FXQTBOY9tutzr5G1mXjfSmi76YAE3Q8WZXNByQ=s160-c-k-c0x00ffffff-no-rj",TV12-Nick jr
 http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:100 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="animax.click" tvg-logo="",TV12-AnimaX
+#EXTINF:100 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="animax.click" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kdzalHLX9rgJa_RWRuNuVeF7unDA0E2qnT8FeDm6v9GbM=s160-c-k-c0x00ffffff-no-rj",TV12-AnimaX
 http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApUjG9Pouw9ZPY2OjOhRVs72%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001853&contentid=ch00000000000000001853&videoid=ch00000090990000001315&recommendtype=0&userid=1839722974667&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKNK24RBBRLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV12-Nickelodeon
+#EXTINF:120 ch-number="0" group-title="GF of Ho Salt and Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/M32uDDSlMkH2-XRmZMvcM64uMzotjxbpzngMS-pnmoDoD-ei--PAHiA0EC9tyiW-5lcXfa6Aqg=s160-c-k-c0x00ffffff-no-rj",TV12-Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
