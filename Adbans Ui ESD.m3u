@@ -299,7 +299,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v8
 http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1130713546686&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGMTXNDRQLDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/AfPQUefmXGaTZ4xMhbYf5jc6g9fa6fMarmgFST7arKnHYevaKxo032YNgjwkG38h9m184uvYSdk=s160-c-k-c0x00ffffff-no-rj",TV09-TBN Asia
 http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br1gDY5x7IZ%2FDqQTvxeS3W1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001317&contentid=ch00000000000000001317&videoid=ch00000090990000001147&recommendtype=0&userid=1315480960661&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IK7JAFC7DFXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="",IBN
+#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_lDyHyY9rwLsEIr_Rl0QrUTIup5ncwvIK_lK2GYjuHlgg=s160-c-k-c0x00ffffff-no-rj" tvg-logo="",IBN
 https://t.freetv.fun/live/ibn-tv.m3u8
 
 Mice Salt
