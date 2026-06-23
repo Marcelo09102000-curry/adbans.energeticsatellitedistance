@@ -289,7 +289,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 Vanilla
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/25/67/66/256766273b78e1f3d61b4092154a25fc.jpg"
 
-#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="cg_hbohd.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lou2Z2EYLn7dA26_3bHgcGMLVxt5BunoxUAMMVKu_MmIU=s160-c-k-c0x00ffffff-no-rj",TV09-TV maria video bacup
+#EXTINF:90 ch-number="0" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lou2Z2EYLn7dA26_3bHgcGMLVxt5BunoxUAMMVKu_MmIU=s160-c-k-c0x00ffffff-no-rj",TV09-TV maria video backup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.mpd
