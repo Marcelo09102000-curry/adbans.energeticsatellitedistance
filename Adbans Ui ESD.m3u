@@ -380,8 +380,8 @@ http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD
 http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:100 ch-number="0" group-title="GF of Ho Salt" tvg-name="" tvg-id="animax.click" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kdzalHLX9rgJa_RWRuNuVeF7unDA0E2qnT8FeDm6v9GbM=s160-c-k-c0x00ffffff-no-rj",TV12-AnimaX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
-	https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(animax)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
+https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
 #EXTINF:120 ch-number="123" group-title="GF of Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/M32uDDSlMkH2-XRmZMvcM64uMzotjxbpzngMS-pnmoDoD-ei--PAHiA0EC9tyiW-5lcXfa6Aqg=s160-c-k-c0x00ffffff-no-rj",TV12-Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
