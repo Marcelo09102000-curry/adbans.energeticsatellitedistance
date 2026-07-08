@@ -385,7 +385,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD
 #EXTINF:100 ch-number="123" group-title="GF of Ho Salt" tvg-name="" tvg-id="animax.click" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kdzalHLX9rgJa_RWRuNuVeF7unDA0E2qnT8FeDm6v9GbM=s160-c-k-c0x00ffffff-no-rj",TV12-AnimaX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(animax)/manifest.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(animax)/master.mpd
 #EXTINF:120 ch-number="124" group-title="GF of Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/M32uDDSlMkH2-XRmZMvcM64uMzotjxbpzngMS-pnmoDoD-ei--PAHiA0EC9tyiW-5lcXfa6Aqg=s160-c-k-c0x00ffffff-no-rj",TV12-Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
