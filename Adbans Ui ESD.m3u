@@ -13,7 +13,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v8
 http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:10 ch-number="5" group-title="Curry" tvg-name="" tvg-id="tv5.click" tvg-logo="https://yt3.googleusercontent.com/P0iMOjoj0J8K00abV7lDXlFMQN5oWdsvJSjGLmaYyKg0iswNEKrHVgrRgtczfspRAwScba4IbQ=s160-c-k-c0x00ffffff-no-rj",TV01-TV5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+#KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 #EXTINF:10 ch-number="6" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ETS9Wuhg-CyHyZCPicgcUH2RGq3EL02Z1uIPmi4OnWCJaP-hRYmwnDQoZ75eXLG29x3ttLJ9=s160-c-k-c0x00ffffff-no-rj",TV01-RPTV SD
