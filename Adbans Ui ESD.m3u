@@ -137,7 +137,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.m
 http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:30 ch-number="53" group-title="Salgu" tvg-name="" tvg-id="AXN.ph" tvg-logo="",TV03-AXN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
+#KODIPROP:inputstream.adaptive.license_key=c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
 #EXTINF:30 ch-number="54" group-title="Salgu" tvg-name="" tvg-id="KBS.World.(HD).sg" tvg-logo="https://i.pinimg.com/736x/12/02/53/120253fb850edc03552e852e1406c5d3.jpg",TV03-KBS world
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -207,15 +207,15 @@ http://136.239.158.18:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v8
 http://136.239.158.10:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr2cQyuTRlDkHeiqeVidUqqsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1481102669463&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7TIMXILHNX5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445520260101155240041967&ispcode=55
 #EXTINF:70 ch-number="74" group-title="Maya" tvg-name="" tvg-id="cg_hbofam.cignal" tvg-logo="https://i.pinimg.com/736x/ff/90/23/ff9023eb7147fdd810bc510072a0ada6.jpg",TV07-HBO Family
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
 #EXTINF:70 ch-number="75" group-title="Maya" tvg-name="" tvg-id="viva-cinema.click" tvg-logo="https://i.pinimg.com/736x/96/d8/bc/96d8bc294e0af40b95459c4b88740c2a.jpg",TV07-Vivacinema
 http://136.239.159.20:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1022847749017&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LZTWKL0XP7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445920260101155236183812&ispcode=55
 #EXTINF:70 ch-number="76" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/fa/21/82/fa2182210dfe311232397f3d457715ed.jpg",TV07-TMC
 http://136.239.173.2:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHx%2Fyl86rMkFVqtHp1NtQIsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1388444659651&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VT2SEXWH4EOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445620260101155236094993&ispcode=55
 #EXTINF:70 ch-number="77" group-title="Maya" tvg-name="" tvg-id="cg_tvnpre.cignal" tvg-logo="https://yt3.googleusercontent.com/crnwfWsJig2wkNfRQyX0oDvfiWk6NOYBEG0HgP8xDs4_oKmmJWB09ioEbLlBQhJB6HIFg_qT_IM=s160-c-k-c0x00ffffff-no-rj",TV07-tvN Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+#KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
 #EXTINF:70 ch-number="78" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/ef/48/8a/ef488a2e6952083c67ab939254823ffa.jpg",TV07-Celestial movies pinoy
 http://136.239.158.30:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1058297419636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B8CE333QUH6XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447420260101155236077598&ispcode=55
@@ -241,8 +241,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
 http://136.239.158.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq7M3KTlp1dzcZcVVxlNmQdsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1158498506531&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EZ3GLGN6GRKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446720260101155240169312&ispcode=55
 #EXTINF:70 ch-number="87" group-title="Maya" tvg-name="" tvg-id="cg_hbosign.cignal" tvg-logo="https://i.pinimg.com/736x/9d/7b/71/9d7b71533a64c079cd3072c1b35385f2.jpg",TV07-HBO signature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 #EXTINF:70 ch-number="88" group-title="Maya" tvg-name="" tvg-id="cg_cinemax.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nFtsC8GiYKlqowfcF5fiuSuIlU__Dn-96rN9DZtZZ87Gw=s160-c-k-c0x00ffffff-no-rj",TV07-Cinemax
 http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoD7Jkv0l3sE1jz6821dGRWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1499683383370&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=W0IF3T6I0YAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:70 ch-number="89" group-title="Maya" tvg-name="" tvg-id="tvN.Movies.HD.my" tvg-logo="https://i.pinimg.com/736x/a2/f5/53/a2f553efc3b51b7502547890f4c8f969.jpg",TV07-tvN Movies
