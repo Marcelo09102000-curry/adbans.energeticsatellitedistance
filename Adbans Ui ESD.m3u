@@ -260,7 +260,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 #EXTINF:80 ch-number="92" group-title="Stripe" tvg-name="" tvg-id="cg_spotvhd.cignal" tvg-logo="https://yt3.googleusercontent.com/vBXGS5LB6-HGH1RyJArpOAoATjwE7hBXT2wsL4qTxnsnBV5XF_sbZNe2WpjMVs65p2EvyTWCCQ=s160-c-k-c0x00ffffff-no-rj",TV08-SpotV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9b08ce3328f467dac1c6ff03b4cf358:499e104ca0c44ebc78d601094001cd67
-https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spotv)/manifest.mpd
 #EXTINF:80 ch-number="93" group-title="Stripe" tvg-name="" tvg-id="cg_pbarush_hd1.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lOp85n-7rs4IJQBpuqottzI5E6lrFuxHJs2l0qm9uo=s160-c-k-c0x00ffffff-no-rj",TV08-PBA rush
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
@@ -270,7 +270,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v8
 #EXTINF:80 ch-number="95" group-title="Stripe" tvg-name="" tvg-id="dr_spotv2hd.cignal" tvg-logo="https://i.pinimg.com/736x/d8/19/cd/d819cd46a3f9f158c40ab8f00a2b7eab.jpg",TV08-SpotV2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3fab992070540f69551d9497a1499ab:6c48e33896b10978099f81ca0b454aff
-https://ucdn.starhubgo.com/bpk-tv/SPOTV2NEW/output/manifest.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spotv2)/manifest.mpd
 #EXTINF:80 ch-number="96" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k0tZ78j_s4Rrzf7MXYMMEdTClC75V42a9FWKfXkzbX_Q=s160-c-k-c0x00ffffff-no-rj",TV08-One sports+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f00bd0122a8a4da1a49ea6c49f7098ad:a4079f3667ba4c2bcfdeb13e45a6e9c6
