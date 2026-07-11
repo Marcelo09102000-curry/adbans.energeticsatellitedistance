@@ -325,7 +325,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi3/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi4/default/index.mpd
 #EXTINF:100 ch-number="109" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/22/78/7d/22787d5fbfe08d1a31c964d509def4ca.jpg",TV10-PiLive 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
+#KODIPROP:inputstream.adaptive.license_key=b4f7c8219d624e30a9156c3a5d7f2048:60391d7d3bb726a4a95e66c4c0af219d
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi5/default/index.mpd
 #EXTINF:100 ch-number="110" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/cd/9a/dc/cd9adcd6e8c90dd635e2558407f94082.jpg",TV10-PiLive 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
