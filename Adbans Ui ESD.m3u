@@ -391,47 +391,49 @@ http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+#EXTINF:130 ch-number="125" group-title="Ho Salt" tvg-name="" tvg-id="https://static.wikia.nocookie.net/dreamlogos/images/0/08/PBS-KIDS-2022-LOGO-FAN-FIX.svg/revision/latest?cb=20221202043141"" tvg-logo="",TV12-PBS kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 Ho Salt
 #EXTINF:-13 group-logo="https://i.pinimg.com/736x/00/de/6a/00de6aa37dc63d2719a528bfb704b1ed.jpg"
 
-#EXTINF:130 ch-number="125" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj",TV13-TLC
+#EXTINF:130 ch-number="126" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj",TV13-TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
-#EXTINF:130 ch-number="126" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/23/25/c6/2325c6e2978fedcf064d0195083ca9ef.jpg",TV13-Xingkong
+#EXTINF:130 ch-number="127" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/23/25/c6/2325c6e2978fedcf064d0195083ca9ef.jpg",TV13-Xingkong
 http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:130 ch-number="127" group-title="Ho Salt" tvg-name="" tvg-id="Love.Nature.my" tvg-logo="https://yt3.googleusercontent.com/rvwRw4-NR4Td4LOj0tvIIv9a8kQusEF8Jihy_O05tufympeoe4Zz1rmjoUxcP_asutnBmRUe1Ko=s160-c-k-c0x00ffffff-no-rj",TV13-Love Nature
+#EXTINF:130 ch-number="128" group-title="Ho Salt" tvg-name="" tvg-id="Love.Nature.my" tvg-logo="https://yt3.googleusercontent.com/rvwRw4-NR4Td4LOj0tvIIv9a8kQusEF8Jihy_O05tufympeoe4Zz1rmjoUxcP_asutnBmRUe1Ko=s160-c-k-c0x00ffffff-no-rj",TV13-Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
-#EXTINF:130 ch-number="128" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/4XSnYZMmCy9FBwbKwbgaqaDRcgLyoE432GLKWFgfXfCkZ34CwYi4Q1PQJVsMgNkEFNCWbXNxLQ=s160-c-k-c0x00ffffff-no-rj",TV13-BBC Lifestyle
+#EXTINF:130 ch-number="129" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/4XSnYZMmCy9FBwbKwbgaqaDRcgLyoE432GLKWFgfXfCkZ34CwYi4Q1PQJVsMgNkEFNCWbXNxLQ=s160-c-k-c0x00ffffff-no-rj",TV13-BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
-#EXTINF:130 ch-number="129" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image45396170672.jpg",TV13-Star TV Philippines
+#EXTINF:130 ch-number="130" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image45396170672.jpg",TV13-Star TV Philippines
 https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:130 ch-number="130" group-title="Ho Salt" tvg-name="" tvg-id="Discovery.Channel.HD.my" tvg-logo="",TV13-Discovery channel
+#EXTINF:130 ch-number="131" group-title="Ho Salt" tvg-name="" tvg-id="Discovery.Channel.HD.my" tvg-logo="",TV13-Discovery channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
-#EXTINF:130 ch-number="131" group-title="Ho Salt" tvg-name="" tvg-id="Discovery.Asia.HD.my" tvg-logo="",TV13-Discovery asia
+#EXTINF:130 ch-number="132" group-title="Ho Salt" tvg-name="" tvg-id="Discovery.Asia.HD.my" tvg-logo="",TV13-Discovery asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:130 ch-number="132" group-title="Ho Salt" tvg-name="" tvg-id="globaltrekker.cignal" tvg-logo="https://i.pinimg.com/736x/27/d1/ff/27d1ff29170cf55a0c79937afe446717.jpg",TV13-Global trekker
+#EXTINF:130 ch-number="133" group-title="Ho Salt" tvg-name="" tvg-id="globaltrekker.cignal" tvg-logo="https://i.pinimg.com/736x/27/d1/ff/27d1ff29170cf55a0c79937afe446717.jpg",TV13-Global trekker
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
 https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
-#EXTINF:130 ch-number="133" group-title="Ho Salt" tvg-name="" tvg-id="hits_hd1.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lindIlqiDrP2cfBhaeAsrxcjbVBe5v6C3uiUZrjPC_6A=s160-c-k-c0x00ffffff-no-rj",TV13-Hits
+#EXTINF:130 ch-number="134" group-title="Ho Salt" tvg-name="" tvg-id="hits_hd1.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lindIlqiDrP2cfBhaeAsrxcjbVBe5v6C3uiUZrjPC_6A=s160-c-k-c0x00ffffff-no-rj",TV13-Hits
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
 https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
-#EXTINF:130 ch-number="133" group-title="Ho Salt" tvg-name="" tvg-id="cg_hitsnow.cignal" tvg-logo="https://i.pinimg.com/736x/cb/72/eb/cb72ebda6b496d8c099eb3db0266e5a1.jpg",TV13-Hits now
+#EXTINF:130 ch-number="135" group-title="Ho Salt" tvg-name="" tvg-id="cg_hitsnow.cignal" tvg-logo="https://i.pinimg.com/736x/cb/72/eb/cb72ebda6b496d8c099eb3db0266e5a1.jpg",TV13-Hits now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
