@@ -423,10 +423,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:130 ch-number="132" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="",TV13-Global trekker
+#EXTINF:130 ch-number="132" group-title="Ho Salt" tvg-name="" tvg-id="globaltrekker.cignal" tvg-logo="https://i.pinimg.com/736x/27/d1/ff/27d1ff29170cf55a0c79937afe446717.jpg",TV13-Global trekker
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
 https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
+#EXTINF:130 ch-number="133" group-title="Ho Salt" tvg-name="" tvg-id="hits_hd1.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lindIlqiDrP2cfBhaeAsrxcjbVBe5v6C3uiUZrjPC_6A=s160-c-k-c0x00ffffff-no-rj",TV13-Hits
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
+https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
+#EXTINF:130 ch-number="133" group-title="Ho Salt" tvg-name="" tvg-id="cg_hitsnow.cignal" tvg-logo="https://i.pinimg.com/736x/cb/72/eb/cb72ebda6b496d8c099eb3db0266e5a1.jpg",TV13-Hits now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
+
 
 #EXTM3U url-tvg="https://epgnxb.vercel.app/api/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
