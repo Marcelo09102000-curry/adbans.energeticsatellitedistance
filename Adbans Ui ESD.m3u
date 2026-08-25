@@ -394,7 +394,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
-#EXTINF:130 ch-number="125" group-title="Ho Salt" tvg-name="" tvg-id="https://static.wikia.nocookie.net/dreamlogos/images/0/08/PBS-KIDS-2022-LOGO-FAN-FIX.svg/revision/latest?cb=20221202043141"" tvg-logo="",TV12-PBS kids
+#EXTINF:130 ch-number="125" group-title="GF of Ho Salt" tvg-name="" tvg-id="https://static.wikia.nocookie.net/dreamlogos/images/0/08/PBS-KIDS-2022-LOGO-FAN-FIX.svg/revision/latest?cb=20221202043141"" tvg-logo="",TV12-PBS kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 Ho Salt
