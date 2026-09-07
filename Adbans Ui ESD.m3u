@@ -351,12 +351,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
 Kiwi
 #EXTINF:-11 group-logo="https://i.pinimg.com/736x/33/87/23/338723e298ae71d8340b85cfbf2664b6.jpg"
 
-#EXTINF:110 ch-number="115" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/af/45/80/af45808c40f2b047f5b3fc011424d9a8.jpg",TV11-My bespren emman
+#EXTINF:110 ch-number="115" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/9a/0f/35/9a0f350bf6a9e5855a30e4e69a6aeae9.jpg",TV11-My bespren emman
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83c87c07deed4bc8899db5361b74aa57:57c044bcd1acd352dcdb7b19cda27569
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://abslive.akamaized.net/dash/live/2027618/mybesprenemman/manifest.mpd
-#EXTINF:110 ch-number="115" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/af/45/80/af45808c40f2b047f5b3fc011424d9a8.jpg",TV11-A secret in prague
+#EXTINF:110 ch-number="115" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/be/8a/48be8a818a6dbbd8b6b1034451643321.jpg",TV11-A secret in prague
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83c87c07deed4bc8899db5361b74aa57:57c044bcd1acd352dcdb7b19cda27569
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -365,7 +365,7 @@ https://abslive.akamaized.net/dash/live/2027618/asecretinprague/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b84ec93eb33c48e58718e99cd4096c15:9e3a9aee29cbd0375e02c55e0b7b5945
 https://abslive.akamaized.net/dash/live/2027618/healingeucharist3/manifest.mpd
-#EXTINF:110 ch-number="117" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/GROuzrl8CvcIeOBhuYwgXx7unvvyn9RjP3HRVjy7l8weJLyB8d3E_bNUE1ROw01_ly1YOrYdCQ=s160-c-k-c0x00ffffff-no-rj",TV11-Yspeak 2.0
+#EXTINF:110 ch-number="117" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/05/62/49/056249716e9580a3d3aca531920d5d45.jpg",TV11-Everybody sing
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83c87c07deed4bc8899db5361b74aa57:57c044bcd1acd352dcdb7b19cda27569
 https://abslive.akamaized.net/dash/live/2027618/everybodysing/manifest.mpd
